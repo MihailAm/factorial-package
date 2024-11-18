@@ -1,8 +1,8 @@
 {
-  "name": "factorial-package",
+  "name": "@mihail_amosov/factorial-package",
   "version": "1.0.1",
   "description": "A simple package to calculate the factorial of a number",
-  "main": "factorial.js",
+  "main": "src/factorial.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
