@@ -1,12 +1,19 @@
 {
   "name": "factorial-package",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "A simple package to calculate the factorial of a number",
+  "main": "factorial.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "keywords": ["factorial", "math", "package"],
+  "author": "Mihail Amosov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MihailAm/factorial-package.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
 }
+
