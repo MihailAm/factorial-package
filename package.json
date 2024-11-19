@@ -1,6 +1,6 @@
 {
   "name": "@mihail_amosov/factorial-package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple package to calculate the factorial of a number",
   "main": "src/factorial.js",
   "scripts": {
